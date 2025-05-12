@@ -24,3 +24,10 @@ flight-delays-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+
+### 📁 Dataset
+
+This project uses the [**Airline Delay Causes** dataset](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses), which must be downloaded manually due to GitHub's file size limitations.
+
+> Once downloaded, place the file `DelayedFlights.csv` inside the folder:  
+> `data/raw/`
