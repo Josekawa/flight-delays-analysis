@@ -1,0 +1,5 @@
+# Ignorar todos los archivos en data/raw/
+data/raw/*
+
+# Pero conservar el archivo .gitkeep para mantener la carpeta en GitHub
+!data/raw/.gitkeep
